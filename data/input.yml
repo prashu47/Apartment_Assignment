@@ -1,0 +1,37 @@
+tenants:
+  - tenant1:
+      name: 'prashu'
+      age: 22
+      credit_score: 600
+  - tenant2:
+      name: 'nikhil'
+      age: 23
+      credit_score: 750
+  - tenant3:
+      name: 'aayush'
+      age: 24
+      credit_score: 725
+apartment:
+  - apartment1:
+      apartment_number: 1
+      rent: 7000
+      square_footage: 1000
+      bedrooms: 4
+      bathrooms: 3
+  - apartment2:
+      apartment_number: 2
+      rent: 8000
+      square_footage: 1200
+      bedrooms: 5
+      bathrooms: 3
+  - apartment3:
+      apartment_number: 3
+      rent: 9500
+      square_footage: 1500
+      bedrooms: 7
+      bathrooms: 4
+buildings:
+  - building1:
+      address: "J K Landmark"
+  - building2:
+      address: "N R Tower"

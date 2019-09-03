@@ -1,0 +1,756 @@
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
+---
+buildings:
+- address: J K Landmark
+- address: N R Tower
+---
+apartments:
+- bedrooms: 4
+  bathrooms: 3
+  number: 1
+- bedrooms: 5
+  bathrooms: 3
+  number: 2
+- bedrooms: 7
+  bathrooms: 4
+  number: 3
+---
+tenants:
+- credit_score: 600
+  name: prashu
+- credit_score: 750
+  name: nikhil
+- credit_score: 725
+  name: aayush
