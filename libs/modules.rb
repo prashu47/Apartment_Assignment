@@ -31,7 +31,12 @@ module ProcessData
    inputdata = YAML.load(File.read("../data/input.yml"))
    full_data = inputdata.to_h
  end
- def converting(input)
-   File.open("../data/output.yml", "a") { |file| file.write(input.to_yaml) }
+def converting(input)
+   # p input.class
+   output = input
+   file_data = YAML.load(File.read("../data/output.yml"))
+   # p file_data.class
+   output = file_data.merge(input) if file_data
+   File.open("../data/output.yml", "w") { |file| file.write(output.to_yaml) }
  end
 end
